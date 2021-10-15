@@ -21,11 +21,11 @@ button{
 }
 div{
 	margin: 100px;
-	/*argin-right: 500px;
-	margin-left: 500px;*/
 	border-right: 200px;
 	border-left: 200px;
 	border-color: mintcream;
 	border-style: dashed;
 	padding: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
 }
