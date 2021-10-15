@@ -1,0 +1,29 @@
+/*This is an external CSS file*/
+/*Name: Victor Javier Del Rio Foces
+HW number:  HW3 
+Date: 01/10/2021.
+*/
+h1{color: #b7f0ea; font-size: 90px;}
+body{ 
+	background-color: black;
+    text-align: center;
+}
+button{
+	background-color: ghostwhite;
+	border: dashed;
+	border-color: #ff66cc;
+	border-width: 5px;
+	padding: 15px 25px;
+	font-size: 22px;
+	text-align: center;
+	display: inline-block;
+	margin: 30px;
+}
+div{
+	margin: 100px;
+	margin-right: 500px;
+	margin-left: 500px;
+	border-color: mintcream;
+	border-style: dashed;
+	padding: 50px;
+}
