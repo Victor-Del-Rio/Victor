@@ -3,9 +3,9 @@
 HW number:  HW3 
 Date: 01/10/2021.
 */
-h1{text-align: center; color: /*#0000cc*/#ce0909; font-size: 50px; font-family: monospace;}
+
 body{ 
-	background-color: #8a8a8a;
+	background-color: /*#8a8a8a*/whitesmoke;
 }
 button{
 	background-color: white;
@@ -19,11 +19,26 @@ button{
 	margin: 30px;
 }
 
+h1{text-align: center; color: /*#ce0909*/#3366ff; font-size: 50px; font-family: monospace;}
+h2{
+	text-align: left; color: #3366ff; font-size: 30px; font-family: sans-serif;
+}
+
+#picSlide{
+	text-align: center;
+}
+
+#aboutMe{
+	margin: 40px;
+}
 #topBanner{
-	background-color: whitesmoke;
-	border-color: mintcream;
-	border-style: dashed;
+	background-color: /*#3366ff*/#525256;
+	border-color: #525256;
+	border-style: solid;
+	border-width: 15px;
 	margin-bottom: -45px;
+	margin-right: -10px;
+	margin-left: -10px;
 }
 #bannerImg{
 	align-content: left;
@@ -35,6 +50,7 @@ button{
 
 a{
 		text-decoration: none;
+		color: white;
 }
 
 ul {
